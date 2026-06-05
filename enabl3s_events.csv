@@ -1,0 +1,14 @@
+Transition_From,Transition_To,Heel_Contact_Events,Toe_Off_Events,Total_Events,Percentage_Of_Total
+Level walking (LW),LW,4523,4637,9160,42.96%
+Level walking (LW),Ramp ascent (RA),240,245,485,2.27%
+Level walking (LW),Ramp descent (RD),240,246,486,2.28%
+Level walking (LW),Stair ascent (SA),239,253,492,2.31%
+Level walking (LW),Stair descent (SD),248,243,491,2.30%
+Ramp ascent (RA),RA,1408,1416,2824,13.24%
+Ramp ascent (RA),LW,243,252,495,2.32%
+Ramp descent (RD),RD,1757,1762,3519,16.50%
+Ramp descent (RD),LW,239,245,484,2.27%
+Stair ascent (SA),SA,489,472,961,4.51%
+Stair ascent (SA),LW,238,245,483,2.27%
+Stair descent (SD),SD,475,478,953,4.47%
+Stair descent (SD),LW,248,242,490,2.30%
